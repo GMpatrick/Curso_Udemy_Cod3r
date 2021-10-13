@@ -28,6 +28,9 @@ public class DesafioUm {
 		
 		System.out.println("A conversão de Fº para Cº sera: "+ formula);
 		
-		
+		leitor.close();
 	}
+	
+	
+	
 }
