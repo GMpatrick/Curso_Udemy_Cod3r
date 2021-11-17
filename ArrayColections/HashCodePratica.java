@@ -12,5 +12,7 @@ public class HashCodePratica {
 		
 		boolean resultado = usuario.contains(new Usuario("Patrick"));
 		System.out.println(resultado);
+		
+		
 	}
 }
