@@ -5,7 +5,7 @@ import java.util.Deque;
 
 public class StackPilha {
 	public static void main(String[] args) {
-		// primeiro a entrar é o primeiro a sair
+		// primeiro a entrar é o ultimo a sair
 		
 		Deque<String> livros = new ArrayDeque<String>();
 		

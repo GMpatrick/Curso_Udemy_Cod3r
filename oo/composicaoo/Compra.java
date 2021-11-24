@@ -7,7 +7,7 @@ public class Compra {
 	// uma compra pode ter varios itens
 	// e um item pode ter uma compra
 	
-	String cliente;
+	public String cliente;
 	
 	ArrayList<Item> itens = new  ArrayList<>();
 	
